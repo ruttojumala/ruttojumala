@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Elena 🌟
 
 ![Одна собака](https://sun9-17.userapi.com/impg/dBAldcFhEC1dE0Mad1ndzqYF2K_nr4vK42XATg/_pZA-G63gCo.jpg?size=600x356&quality=96&sign=05bb5ff86d07b51c7e46d5055b8d4750&type=album)
 
