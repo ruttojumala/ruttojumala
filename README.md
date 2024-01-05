@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Одна собака](https://doka.guide/tools/markdown/demos/img/images/dog.svg "Собака смотрит влево")
+![Одна собака](https://sun9-17.userapi.com/impg/dBAldcFhEC1dE0Mad1ndzqYF2K_nr4vK42XATg/_pZA-G63gCo.jpg?size=600x356&quality=96&sign=05bb5ff86d07b51c7e46d5055b8d4750&type=album) "Собака смотрит влево")
 
 <!--
 **ruttojumala/ruttojumala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
