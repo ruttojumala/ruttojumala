@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+![Одна собака](https://doka.guide/tools/markdown/demos/img/ "Собака смотрит влево")
+
 <!--
 **ruttojumala/ruttojumala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
