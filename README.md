@@ -1,5 +1,5 @@
 ### Hi there 👋
-![текст]([путь к изображению](https://sun9-80.userapi.com/impg/LXKvRAQk8IkcWY970EU0GzSqSREKNcIJ6SZ9cw/3BWheKTwNhM.jpg?size=1080x1080&quality=95&sign=43c2aa5fdd784b2022dc45e27b1f27ce&type=album))
+![текст]([путь к изображению](https://sun9-80.userapi.com/impg/LXKvRAQk8IkcWY970EU0GzSqSREKNcIJ6SZ9cw/3BWheKTwNhM.jpg?size=1080x1080&quality=95&sign=43c2aa5fdd784b2022dc45e27b1f27ce&type=album)
 <!--
 **ruttojumala/ruttojumala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
